@@ -1,0 +1,19 @@
+{
+  "name": "shrinx",
+  "version": "1.0.0",
+  "description": "Shrix is a URL shortener optimized for digital marketers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jodylecompte/Shrinx.git"
+  },
+  "author": "Jody LeCompte <jody@jodylecompte.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jodylecompte/Shrinx/issues"
+  },
+  "homepage": "https://github.com/jodylecompte/Shrinx#readme"
+}
